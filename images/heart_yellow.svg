@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="24px" viewBox="0 0 26 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet-Portrait" transform="translate(-176.000000, -811.000000)" fill-rule="nonzero" fill="#F3E9DC">
+            <g id="Group-5" transform="translate(0.000000, -1.000000)">
+                <g id="Section-2" transform="translate(0.000000, 759.000000)">
+                    <g id="Header-2" transform="translate(176.000000, 50.000000)">
+                        <path d="M13.3495641,7.61434231 C14.3620737,5.21452405 16.6750911,3.53771187 19.3654163,3.53771187 C22.989478,3.53771187 25.599525,6.63795796 25.9276624,10.3327649 C25.9276624,10.3327649 26.1047763,11.249944 25.714925,12.9011675 C25.184085,15.1499623 23.9362597,17.1478875 22.2539284,18.6726727 L13.3495641,26.6172101 L4.59521975,18.672171 C2.91288844,17.1478875 1.66506322,15.1494606 1.13422322,12.9006658 C0.74437192,11.2494423 0.921485833,10.3322632 0.921485833,10.3322632 C1.24962322,6.63745622 3.85967018,3.53721013 7.48373192,3.53721013 C10.1745589,3.53721013 12.3370545,5.21452405 13.3495641,7.61434231 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
