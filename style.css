@@ -304,7 +304,7 @@ footer.black.section .info .cru {
 @media (max-width: 779px) {
   .yellow.section {
     background-image: none;
-    background-color: #fbfbfb;
+    background-color: #fafafa;
   }
   .yellow.section p {
     color: rgba(215,90,74,0.87) !important;
@@ -371,7 +371,7 @@ footer.black.section .info .cru {
     width: 100% !important;
   }
   .yellow.section .timeline .item .content p,
-  .yellow.section .timeline .item .content h1 {
+  .yellow.section .timeline .item .content h2 {
     text-align: left !important;
   }
 }
@@ -409,11 +409,11 @@ footer.black.section .info .cru {
   justify-content: flex-end;
 }
 .yellow.section .timeline .item:nth-child(even) p,
-.yellow.section .timeline .item:nth-child(even) h1 {
+.yellow.section .timeline .item:nth-child(even) h2 {
   text-align: left;
 }
 .yellow.section .timeline .item:nth-child(odd) p,
-.yellow.section .timeline .item:nth-child(odd) h1 {
+.yellow.section .timeline .item:nth-child(odd) h2 {
   text-align: right;
 }
 .yellow.section .timeline .item .marker {
@@ -434,12 +434,11 @@ footer.black.section .info .cru {
   width: 332px;
   margin-top: 8px;
 }
-.yellow.section .timeline .item .content h1 {
+.yellow.section .timeline .item .content h2 {
   display: block;
   margin: 0;
-  font-family: 'Sniglet', cursive;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 16px;
-  font-weight: 400;
   color: rgba(0,0,0,0.87);
 }
 .yellow.section .timeline .item .content p {
