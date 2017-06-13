@@ -142,12 +142,14 @@ p:last-child {
   position: absolute;
   width: 100%;
   top: 0;
+  left: 0;
   height: 10px;
   background-color: #d0011b;
 }
 .main.section .menu.bar {
   position: absolute;
   top: 10px;
+  left: 5%;
   width: 90%;
   margin-top: 25px;
   display: -webkit-box;
