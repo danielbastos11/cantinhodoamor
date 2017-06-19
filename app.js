@@ -2,8 +2,6 @@
 'use strict';
 
 $(document).ready(function () {
-
-  console.log(document);
   let $heart = $('.animation.stage .heart');
 
   $heart.each((i, elm) => assignTo(elm));
