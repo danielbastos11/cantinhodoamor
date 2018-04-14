@@ -1,0 +1,9 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: boolean
+  default: false
+  label: Hide 'Office Locations'
+  name: hide__office_locations_
+  hidden: false
