@@ -2,8 +2,16 @@
 hide_body: false
 is_partial: false
 fields:
-- type: boolean
-  default: false
-  label: Hide 'Office Locations'
-  name: hide__office_locations_
-  hidden: false
+- type: text
+  label: Hero Text
+  name: hero_text
+- type: field_group
+  name: link_1
+  label: Link 1
+  fields:
+  - type: text
+    name: link_title
+    label: Link Title
+  - type: text
+    name: link_url
+    label: Link URL
